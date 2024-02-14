@@ -13,7 +13,7 @@ const steven = {
   code: [Javascript, Typescript, HTML, CSS, Ruby, Dart],
   tools: [React, Node, Styled-Components, Jest, Docker, Next, Flutter, RN ],
   architecture: ["microservices", "event-driven", "DDD", "Flux"],
-  challenge: "I am build a frontend architecture based on DDD",
+  challenge: "I am building a frontend architecture based on DDD",
   hobbies: ["Play guitar", "Cooking"]
 }
 ```
